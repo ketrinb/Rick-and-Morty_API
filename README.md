@@ -1,1 +1,1 @@
-# Rick-and-Morty_API
+# Rick-and-Morty_APi
